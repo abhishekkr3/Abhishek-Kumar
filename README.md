@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhishek kumar
-- 👀 I’m interested in FUll Stack Web Developing
+- 👀 I’m interested in Full Stack Web Developing
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "joelmessi38@gmail.com"
